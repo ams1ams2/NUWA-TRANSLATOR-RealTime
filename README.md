@@ -1,6 +1,5 @@
 # NUWA-TRANSLATOR-RealTime
 
-NUWA TRANSLATOR REAL TIME
 
 نظام ترجمة صوتية فورية من الإنجليزي للعربي يعمل على أي صوت يطلع من جهازك (ميكروفون أو صوت النظام) ويعرض الترجمة لحظياً على شاشة صغيرة Overlay.
 
@@ -37,3 +36,6 @@ Hugging Face Transformers للترجمة.
 Soundcard لالتقاط الصوت.
 
 Tkinter للواجهة والـ Overlay.
+
+لتفاصيل اكثر
+https://www.linkedin.com/posts/dhiyaa-aldeen_%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%85%D9%86-nuwa-translator-real-activity-7433599071162044416-vaZX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKprzYB2SSEoMJynpf3vRDbUlXR48O_fow
